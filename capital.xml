@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<states>
+<state>
+ <name>west bengal</name>
+ <capital>kolkata</capital>
+ <river>Bhagirathi</river>
+</state>
+<state>
+ <name>assam</name>
+ <capital>dishpur</capital>
+ <river>bramhaputra</river>
+</state> 
+<state>
+ <name>bihar</name>
+ <capital>patna</capital>
+ <river>ganjes</river>
+ </state>
+ <state>
+ <name>uttarpradesh</name>
+ <capital>lucknow</capital>
+ <river>jamuna</river>
+ 
+ </state>
+ <state>
+ <name>madhyapradesh</name>
+ <capital>lu</capital>
+ <river>jamuna</river>
+ </state>
+ 
+ 
+ </states>
